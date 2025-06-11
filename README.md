@@ -4,8 +4,7 @@
 
 ---
 
-🧠 *"Test-driven. Feature-focused. Fullstack."*
-🌿 *"An engineer who protects nature with code and fights against data pollution."*
+🧠 *"Test-driven. Feature-focused. Fullstack.* 🌿 *"An engineer who protects nature with code and fights against data pollution."*
 
 
 ### 🌐 Connect Me
