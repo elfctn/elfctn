@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elif </h1>
-<h3 align="center">💻 Software Developer || HTML || CSS || JavaScript || ReactJS || Java || Spring Boot || SQL || PostgreSQL|| Python || Django ||</h3>
+<h3 align="center">💻 Software Developer💻 </h3>
+<h3 align="center">|| HTML || CSS || JavaScript || ReactJS || Java || Spring Boot || SQL || PostgreSQL|| Python || Django ||</h3>
 
 ---
 
