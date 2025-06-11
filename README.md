@@ -7,8 +7,8 @@
 ### 🚀 About Me
 
 - 🧩 Fullstack developer with experience in both frontend and backend
-- 🔭 Currently building RESTful APIs with **Spring Boot** and **Node.js**
-- 🧪 Writing tests using **JUnit**, **Cypress**, and **React Testing Library**
+- 🔭 Currently building RESTful APIs , databases with **Spring Boot** and **PostgreSQL**
+- 🧪 Writing tests using **Spring Unit Test**, **Cypress**, and **React Testing Library**
 - 🧠 Exploring modern frontend tooling and Spring ecosystem
 
 ---
