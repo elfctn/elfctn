@@ -12,7 +12,7 @@
 [![Website](https://img.shields.io/badge/Website-1A73E8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio1-rosy-eight.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elifcetin-)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elifcetin.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xxelifcetinxx)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elifcetinxx)
 [![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1nW1UNefOETq9UxXdkCE8dmoRzLCAwDO/view?usp=drive_link)
 ---
 
