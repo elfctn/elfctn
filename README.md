@@ -18,10 +18,10 @@
 
 ### 🚀 About Me
 
-🌱 Software Developer with an Engineering Background: Leveraging my analytical thinking and systemic approach gained from a foundation in environmental engineering, I bring a unique problem-solving perspective to every stage of software development. I build solutions for both the frontend and backend.
-💻 Crafting Solutions with Data and APIs: Currently, I'm focused on developing robust and scalable RESTful APIs, bringing them to life with the power of Spring Boot, and securely structuring data within PostgreSQL databases.
-🧪 A Passion for Testing for Reliable and Robust Code: I believe in the reliability of every line of code I write. That's why I prioritize comprehensive testing; I write extensive integration and unit tests with Spring Boot Test, design end-to-end scenarios using Cypress, and ensure my user interfaces perform as expected with React Testing Library.
-💡 Committed to Continuous Growth and New Technologies: I actively follow advancements in the software world, constantly exploring the latest modern frontend tools and developments within the Spring ecosystem to expand my knowledge base and skill set.
+- **🌱 Software Developer with an Engineering Background:** Leveraging my analytical thinking and systemic approach gained from a foundation in environmental engineering, I bring a unique problem-solving perspective to every stage of software development. I build solutions for both the frontend and backend.
+- **💻 Crafting Solutions with Data and APIs:** Currently, I'm focused on developing robust and scalable RESTful APIs, bringing them to life with the power of Spring Boot, and securely structuring data within PostgreSQL databases.
+- **🧪 A Passion for Testing for Reliable and Robust Code:** I believe in the reliability of every line of code I write. That's why I prioritize comprehensive testing; I write extensive integration and unit tests with Spring Boot Test, design end-to-end scenarios using Cypress, and ensure my user interfaces perform as expected with React Testing Library.
+- **💡 Committed to Continuous Growth and New Technologies:** I actively follow advancements in the software world, constantly exploring the latest modern frontend tools and developments within the Spring ecosystem to expand my knowledge base and skill set.
 
 ---
 
