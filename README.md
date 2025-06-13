@@ -54,9 +54,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true&theme=radical" alt="elfctn GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact&theme=radical" alt="elfctn Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elfctn&theme=radical" alt="elfctn GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=elfctn&color=red" alt="Profil Görüntüleme Sayısı" />
   </p>
 ---
 
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elfctn&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfctn&theme=radical)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=elfctn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+------
 
 
