@@ -90,8 +90,6 @@
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-streak-stats.herokuapp.com?user=elfctn&theme=dark)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=elfctn&type=png)](https://git.io/streak-stats)
 
 
