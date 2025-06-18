@@ -5,8 +5,7 @@
 
 ---
 
-<h1 align="center"> 🧠 Test-driven. Feature-focused. Fullstack.🧠 </h1>
-<h1 align="center"> 🌿 An engineer who protects nature with code and fights against data pollution.🌿 </h1>
+<h2 align="center"> 🧠 Test-driven. Feature-focused. Fullstack. 🌿 An engineer who protects nature with code and fights against data pollution.🌿 </h2>
 
 ---
 
