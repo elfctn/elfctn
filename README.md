@@ -2,10 +2,10 @@
 <h3 align="center">💻 Software Developer💻 </h3>
 <h3 align="center">|| HTML || CSS || JavaScript || TypeScript || Java || Python || NodeJS || SQL ||</h3>    
 <h3 align="center">|| ReactJS || NextJS || ExpressJS || MongoDB || Spring Boot || PostgreSQL|| Django||</h3>
----
-<h2 align="center"> 🧠 Test-driven. Feature-focused. Fullstack.</h2>
-<h2 align="center"> 🌿 An engineer who protects nature with code and fights against data pollution.</h2>
----
+
+<h align="center"> 🧠 Test-driven. Feature-focused. Fullstack.</h>
+<h align="center"> 🌿 An engineer who protects nature with code and fights against data pollution.</h>
+
 
 ### 🌐 Connect Me
 [![Website](https://img.shields.io/badge/Website-1A73E8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio1-rosy-eight.vercel.app/)
