@@ -68,15 +68,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true&theme=radical" alt="elfctn GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact&theme=radical" alt="elfctn Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elfctn&theme=radical" alt="elfctn GitHub Streak" />
-  </p>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=elfctn&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elfctn&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfctn&theme=radical)
