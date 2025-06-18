@@ -74,4 +74,4 @@
 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elfctn&theme=flat)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfctn&theme=green-pink)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfctn&theme=green)
