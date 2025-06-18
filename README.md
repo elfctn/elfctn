@@ -73,7 +73,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=elfctn&theme=radical)
-
+![Visitors](https://komarev.com/ghpvc/?username=elfctn&color=red)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elfctn&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfctn&theme=radical)
 
