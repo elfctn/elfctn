@@ -81,15 +81,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfctn&theme=green)
 
----
-
-### 📈 My GitHub Metrics
-
-[![My GitHub Metrics](https://metrics.lecoq.io/elfctn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.content=user&repositories=100&isprivate=true&isfork=true&isarchived=true)](https://metrics.lecoq.io/elfctn)
 
 
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=elfctn&type=png)](https://git.io/streak-stats)
 
 
