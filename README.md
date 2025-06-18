@@ -1,7 +1,7 @@
 <h1 align="center">ELIF CETIN</h1>
 <h3 align="center">💻 Software Developer💻 </h3>
-<h3 align="center">|| HTML || CSS || JavaScript || TypeScript || ReactJS || NextJS || NodeJS || ExpressJS || MongoDB || Java || Spring Boot || SQL || PostgreSQL|| Python || Django ||</h3>
-
+<h3 align="center">|| HTML || CSS || JavaScript || TypeScript || Java || Python || NodeJS || SQL ||</h3>    
+<h3 align="center">|| ReactJS || NextJS || ExpressJS || MongoDB || Spring Boot || PostgreSQL|| Django||</h3>
 ---
 
 🧠 *"Test-driven. Feature-focused. Fullstack.* 🌿 *"An engineer who protects nature with code and fights against data pollution."*
