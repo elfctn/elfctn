@@ -3,8 +3,12 @@
 <h3 align="center">|| HTML || CSS || JavaScript || TypeScript || Java || Python || NodeJS || SQL ||</h3>    
 <h3 align="center">|| ReactJS || NextJS || ExpressJS || MongoDB || Spring Boot || PostgreSQL|| Django||</h3>
 
-<h align="center"> 🧠 Test-driven. Feature-focused. Fullstack.</h>
-<h align="center"> 🌿 An engineer who protects nature with code and fights against data pollution.</h>
+---
+
+<h1 align="center"> 🧠 Test-driven. Feature-focused. Fullstack.🧠 </h1>
+<h1 align="center"> 🌿 An engineer who protects nature with code and fights against data pollution.🌿 </h1>
+
+---
 
 
 ### 🌐 Connect Me
