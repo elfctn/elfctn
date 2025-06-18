@@ -75,6 +75,9 @@
   </p>
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elfctn&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfctn&theme=radical)
 
