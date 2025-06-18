@@ -2,9 +2,8 @@
 <h3 align="center">💻 Software Developer💻 </h3>
 <h3 align="center">|| HTML || CSS || JavaScript || TypeScript || Java || Python || NodeJS || SQL ||</h3>    
 <h3 align="center">|| ReactJS || NextJS || ExpressJS || MongoDB || Spring Boot || PostgreSQL|| Django||</h3>
----
 
-🧠 *"Test-driven. Feature-focused. Fullstack.* 🌿 *"An engineer who protects nature with code and fights against data pollution."*
+<h2 align="center"> 🧠 *"Test-driven. Feature-focused. Fullstack.* 🌿 *"An engineer who protects nature with code and fights against data pollution."* </h2>
 
 
 ### 🌐 Connect Me
@@ -84,10 +83,14 @@
 
 ---
 
+### 📈 My GitHub Metrics
+
+[![My GitHub Metrics](https://metrics.lecoq.io/elfctn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.content=user&repositories=100&isprivate=true&isfork=true&isarchived=true)](https://metrics.lecoq.io/elfctn)
 
 
+### 🔥 GitHub Streak
 
-
+[![GitHub Streak](https://github-streak-stats.herokuapp.com?user=elfctn&theme=dark)](https://git.io/streak-stats)
 
 
 
