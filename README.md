@@ -68,9 +68,27 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true&theme=default)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true&theme=default)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact&theme=default)
 
+---
+### 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elfctn&theme=flat)
 
+---
+
+### 📈 GitHub Activity Graph
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfctn&theme=green)
+
+---
+
+
+
+
+
+
+
+
+
