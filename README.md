@@ -1,45 +1,6 @@
 <h1 align="center">ELIF CETIN</h1>
 <h3 align="center">💻 Software Developer💻 </h3>
 
-<h3 align="center">|| 1. Frontend ||</h3>
-
-- JavaScript
-- TypeScript
-- HTML & CSS
-- React
-- Next.js
-
-
-<h3 align="center">|| 2. Backend ||</h3>
-
-- Node.js (JavaScript / TypeScript)
-- Express.js
-- NestJS
-- Java (Spring Boot)
-
-
-<h3 align="center">|| 3. Database ||</h3>
-
-- SQL
-- PostgreSQL
-- MongoDB
-
-
-<h3 align="center">|| 4. API & Communication ||</h3>
-
-- REST API
-- GraphQL
-
-
-<h3 align="center">|| 5. DevOps & Tools & ||</h3>
-
-- Bash
-- Git
-- CI/CD (GitHub Actions)
-- Docker
-- AWS / GCP
-- Redis
-- JWT / OAuth
 ---
 
 <h3 align="center"> 🧠 Test-driven. Feature-focused. Fullstack. 🌿 An engineer who protects nature with code and fights against data pollution. </h3>
