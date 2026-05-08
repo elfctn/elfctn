@@ -78,7 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true&theme=radical&count_private=true" alt="Overall Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+[![Elfctn's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfctn&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### 🏆 GitHub Trophies
