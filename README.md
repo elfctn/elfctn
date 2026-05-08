@@ -71,6 +71,16 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=elfctn)](https://git.io/streak-stats)
 
 ---
+
+## 🚀 GitHub Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true&theme=radical&count_private=true" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elfctn&theme=flat)
