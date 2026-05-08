@@ -69,8 +69,8 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true&theme=default)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true&theme=radical&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact&theme=radical)
 
 ---
 ### 🏆 GitHub Trophies
