@@ -72,6 +72,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true&theme=radical&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elfctn)](https://git.io/streak-stats)
 ---
 ### 🏆 GitHub Trophies
 
