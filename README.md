@@ -1,89 +1,151 @@
-<h1 align="center">ELIF CETIN</h1>
-<h3 align="center">💻 Software Developer💻 </h3>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:111111&text=ELIF%20CETIN&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn"/>
+
+# Software Developer • Product Builder • Full-Stack Engineer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Full-Stack+Engineer;Product+Builder;Building+Scalable+Systems;Creating+Digital+Products)](https://git.io/typing-svg)
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=elfctn&style=for-the-badge&color=000000)
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio1-rosy-eight.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elifcetin-)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elifcetin.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elifcetinxx)
+
+</div>
 
 ---
 
-<h3 align="center"> 🧠 Test-driven. Feature-focused. Fullstack. 🌿 An engineer who protects nature with code and fights against data pollution. </h3>
+# About
+
+Software developer focused on building scalable web applications, business systems and digital products.
+
+I enjoy transforming ideas into real products through software engineering, system design and modern development practices.
+
+My work spans frontend development, backend architecture, API design, database systems, automation and product development.
 
 ---
 
+# Current Projects
 
-### 🌐 Connect Me
-[![Website](https://img.shields.io/badge/Website-1A73E8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio1-rosy-eight.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elifcetin-)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elifcetin.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elifcetinxx)
+### KARGAHUB
+Business management platform focused on inventory, reporting, operational workflows and business automation.
 
----
+### PLUTON LABS
+Independent product and technology initiative focused on software, systems and digital products.
 
-
-### 🚀 About Me
-
-- **🌱 Software Developer with an Engineering Background:** Leveraging my analytical thinking and systemic approach gained from a foundation in environmental engineering, I bring a unique problem-solving perspective to every stage of software development. I build solutions for both the frontend and backend.
-- **💻 Crafting Solutions with Data and APIs:** Currently, I'm focused on developing robust and scalable RESTful APIs, bringing them to life with the power of Spring Boot, and securely structuring data within PostgreSQL databases.
-- **🧪 A Passion for Testing for Reliable and Robust Code:** I believe in the reliability of every line of code I write. That's why I prioritize comprehensive testing; I write extensive integration and unit tests with Spring Boot Test, design end-to-end scenarios using Cypress, and ensure my user interfaces perform as expected with React Testing Library.
-- **💡 Committed to Continuous Growth and New Technologies:** I actively follow advancements in the software world, constantly exploring the latest modern frontend tools and developments within the Spring ecosystem to expand my knowledge base and skill set.
+### PLUTON RECORDS
+Independent electronic music label and production studio.
 
 ---
 
-### 🧰 Tech Stack
+# Tech Stack
 
-**Frontend:**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+<div align="center">
 
-**Backend:**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot_Test-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,vue,vite,redux"/>
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,spring,postgres,mongodb,docker"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,figma"/>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=elfctn)](https://git.io/streak-stats)
+# GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elfctn&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfctn&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=elfctn&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elfctn&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=elfctn&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
+
+</div>
+
+---
+
+# Development Philosophy
+
+
+Build with purpose.
+Write clean code.
+Design scalable systems.
+Test everything.
+Automate repetitive work.
+Think long-term.
 
 
 ---
 
-### 🏆 GitHub Trophies
+# Areas of Interest
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elfctn&theme=flat)
+* Full-Stack Development
+* Software Architecture
+* API Development
+* Business Software
+* Automation Systems
+* Product Development
+* Database Design
+* Cloud Infrastructure
+* User Experience
+* Modern Web Technologies
 
 ---
 
-### 📈 GitHub Activity Graph
+<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfctn&theme=green)
+## Clean Code • Scalable Systems • Reliable Products
 
+<br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:111111,100:000000"/>
 
-
+</div>
 
