@@ -1,7 +1,8 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:111111&text=ELIF%20CETIN&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=80&lines=ELIF+CETIN;Software+Developer;Product+Builder;Full-Stack+Engineer"/>
+
+</div>
 
 # Software Developer • Product Builder • Full-Stack Engineer
 
@@ -29,19 +30,6 @@ Software developer focused on building scalable web applications, business syste
 I enjoy transforming ideas into real products through software engineering, system design and modern development practices.
 
 My work spans frontend development, backend architecture, API design, database systems, automation and product development.
-
----
-
-# Current Projects
-
-### KARGAHUB
-Business management platform focused on inventory, reporting, operational workflows and business automation.
-
-### PLUTON LABS
-Independent product and technology initiative focused on software, systems and digital products.
-
-### PLUTON RECORDS
-Independent electronic music label and production studio.
 
 ---
 
@@ -142,10 +130,6 @@ Think long-term.
 <div align="center">
 
 ## Clean Code • Scalable Systems • Reliable Products
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:111111,100:000000"/>
 
 </div>
 
