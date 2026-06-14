@@ -1,12 +1,11 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=80&lines=ELIF+CETIN;Software+Developer;Product+Builder;Full-Stack+Engineer"/>
+# ELIF CETIN
 
-</div>
+### Software Developer • Product Builder • Full-Stack Engineer
 
-# Software Developer • Product Builder • Full-Stack Engineer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Full-Stack+Engineer;Product+Builder;Building+Scalable+Systems;Creating+Digital+Products)](https://git.io/typing-svg)
+Building scalable systems, digital products and modern web applications.
 
 <br>
 
@@ -132,4 +131,3 @@ Think long-term.
 ## Clean Code • Scalable Systems • Reliable Products
 
 </div>
-
